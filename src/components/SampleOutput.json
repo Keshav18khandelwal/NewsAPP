@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Niners Nation"
+        },
+        "author": "Kyle Posey",
+        "title": "NN prediction contest, Divisional Round: Can the 49ers make it three upsets in a row? - Niners Nation",
+        "description": "Jimmy Garoppolo’s record as an underdog would suggest so",
+        "url": "https://www.ninersnation.com/2022/1/20/22894298/nn-prediction-contest-divisional-round-can-the-49ers-make-it-three-upsets-in-a-row",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/DWnhkvQploHiSDVrQK1Ya2ivj6A=/0x0:4192x2195/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23183792/1365765427.jpg",
+        "publishedAt": "2022-01-21T03:40:38Z",
+        "content": "Weve reached the Divisional Round of the playoffs. Click here for a look at the Wild Card round results. \r\nThe 49ers took care of the Cowboys last week. As usual, they made it interesting but found a… [+901 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Variety"
+        },
+        "author": "Brent Lang",
+        "title": "The Hottest Films for Sale at the 2022 Sundance Film Festival - Variety",
+        "description": "Popular on Variety Sundance may have been forced to cancel its plans to host an in-person festival, but the shift to a virtual event isn’t likely to stifle dealmaking. After all, the 2021 edition of Sundance saw films like “Passing,” “Summer of Soul” and “COD…",
+        "url": "https://variety.com/2022/film/news/sundance-films-for-sale-2022-1235158427/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2022/01/Sundance-Park-City-Atmophere.jpg?w=1000",
+        "publishedAt": "2022-01-21T01:11:00Z",
+        "content": "Sundance may have been forced to cancel its plans to host an in-person festival, but the shift to a virtual event isn’t likely to stifle dealmaking. After all, the 2021 edition of Sundance saw films … [+7739 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Kim Lyons",
+        "title": "TikTok is thinking about letting its creators charge subscription fees - The Verge",
+        "description": "The short form video app confirmed that it’s testing support for paid subscriptions for its creators, but didn’t provide details on when it might launch more widely, or how the pay structure would work.",
+        "url": "https://www.theverge.com/2022/1/20/22893954/tiktok-testing-paid-subscriptions-creators",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/yYO_RezbsiRKU534Jsv2c7ece64=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21694346/acastro_200803_1777_tikTok_0001.0.jpg",
+        "publishedAt": "2022-01-21T00:29:46Z",
+        "content": "No details on who, when or how are available, but the company says it is testing support\r\nTikTok is testing paid subscriptions\r\nIllustration by Alex Castro / The Verge\r\nTikTok confirmed Thursday that… [+2502 chars]"
+      }
+    ]
+  }
